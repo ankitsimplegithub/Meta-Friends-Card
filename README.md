@@ -21,12 +21,12 @@ With just one click, you can **Add a Friend 🤝** or **Remove a Friend 🚫** �
   - When clicking the **Add Friend** button:
     - Status changes to **Friend**
     - Button text changes to **Remove Friend**
-<img width="299" height="128" alt="Image" src="https://github.com/user-attachments/assets/079d8d6d-fd9d-4e0a-b990-6fdd231f137b" />
+<img width="299" height="125" alt="Image" src="https://github.com/user-attachments/assets/5eb89399-f65f-4092-894a-bfda8c71f8df" />
 
   - When clicking the **Remove Friend** button:
     - Status changes back to **Stranger**
     - Button text changes to **Add Friend**
-<img width="299" height="125" alt="Image" src="https://github.com/user-attachments/assets/5eb89399-f65f-4092-894a-bfda8c71f8df" />
+<img width="299" height="128" alt="Image" src="https://github.com/user-attachments/assets/079d8d6d-fd9d-4e0a-b990-6fdd231f137b" />
 
 ---
 
