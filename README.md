@@ -58,7 +58,3 @@ With just one click, you can **Add a Friend 🤝** or **Remove a Friend 🚫** �
 - Add animations when changing friend status  
 
 ---
-
-## 🖊️ Author
-- **Ankit Pandey**  
-- A fun mini project for practicing **DOM Manipulation & Event Handling**
